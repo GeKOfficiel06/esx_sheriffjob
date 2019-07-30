@@ -1,4 +1,4 @@
-# esx_policejob
+# esx_sheriffjob
 
 ### Requirements
 * Auto mode
